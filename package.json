@@ -36,5 +36,5 @@
   "scripts": {
     "test": "make test"
   },
-  "readmeFilename": "README.md",
+  "readmeFilename": "README.md"
 }
