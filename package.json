@@ -1,6 +1,6 @@
 {
   "name": "osi-standalone",
-  "version": "14.4.14.11",
+  "version": "14.4.11",
   "description": "OSI is a distributed P2P project, aiming at creating a censorship free, anonymous and open internet, while earning users OSICoin.",
   "homepage": "http://osi.digihaven.com",
   "keywords": [
@@ -23,11 +23,13 @@
     "url": "https://github.com/digihaven/osi-standalone"
   },
   "dependencies": {
-    "osi": "14.4.14.11",
+    "osi": "14.4.11",
+    "socket.io": "0.9.16"
   },
   "devDependencies": {
   },
   "optionalDependencies": {
+    "geoip-lite": "1.1.3"
   },
   "main": "index",
   "engines": {
